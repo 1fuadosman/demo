@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="softwaretestingmaterial">
-    <test name="testngTest">
+    <test name="Albums">
         <classes>
             <class name="com.demo.app.tests.Albums" />
         </classes>
     </test>
-    <test name="testngTest">
+    <test name="Comments">
         <classes>
             <class name="com.demo.app.tests.Comments" />
         </classes>
     </test>
-    <test name="testngTest">
+    <test name="Photos">
         <classes>
             <class name="com.demo.app.tests.Photos" />
         </classes>
     </test>
-    <test name="testngTest">
+    <test name="Posts">
         <classes>
             <class name="com.demo.app.tests.Posts" />
         </classes>
     </test>
-    <test name="testngTest">
+    <test name="Todos">
         <classes>
             <class name="com.demo.app.tests.Todos" />
         </classes>
     </test>
-    <test name="testngTest">
+    <test name="Users">
         <classes>
             <class name="com.demo.app.tests.Users" />
         </classes>

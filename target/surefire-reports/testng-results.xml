@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="softwaretestingmaterial" duration-ms="26545" started-at="2019-05-16T22:45:44Z" finished-at="2019-05-16T22:46:11Z">
+    <groups>
+    </groups>
+    <test name="Albums" duration-ms="1509" started-at="2019-05-16T22:45:44Z" finished-at="2019-05-16T22:45:46Z">
+      <class name="com.demo.app.tests.Albums">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demo.app.tests.Albums@79698539]" name="setup" is-config="true" duration-ms="463" started-at="2019-05-16T22:45:44Z" finished-at="2019-05-16T22:45:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getAllAlbums()[pri:0, instance:com.demo.app.tests.Albums@79698539]" name="getAllAlbums" duration-ms="1034" started-at="2019-05-16T22:45:45Z" finished-at="2019-05-16T22:45:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllAlbums -->
+      </class> <!-- com.demo.app.tests.Albums -->
+    </test> <!-- Albums -->
+    <test name="Comments" duration-ms="0" started-at="2019-05-16T22:45:51Z" finished-at="2019-05-16T22:45:51Z">
+    </test> <!-- Comments -->
+    <test name="Photos" duration-ms="0" started-at="2019-05-16T22:45:56Z" finished-at="2019-05-16T22:45:56Z">
+    </test> <!-- Photos -->
+    <test name="Posts" duration-ms="0" started-at="2019-05-16T22:46:01Z" finished-at="2019-05-16T22:46:01Z">
+    </test> <!-- Posts -->
+    <test name="Todos" duration-ms="0" started-at="2019-05-16T22:46:06Z" finished-at="2019-05-16T22:46:06Z">
+    </test> <!-- Todos -->
+    <test name="Users" duration-ms="0" started-at="2019-05-16T22:46:11Z" finished-at="2019-05-16T22:46:11Z">
+    </test> <!-- Users -->
+  </suite> <!-- softwaretestingmaterial -->
+</testng-results>
