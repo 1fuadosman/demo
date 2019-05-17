@@ -1,8 +1,5 @@
 com/demo/app/tests/Posts.class
 com/demo/app/config/TestConfig.class
-com/demo/app/tests/Todos.class
-com/demo/app/tests/Comments.class
-com/demo/app/tests/Photos.class
-com/demo/app/tests/Users.class
 com/demo/app/tests/Albums.class
 com/demo/app/config/EndPoint.class
+com/demo/app/tests/Comments.class

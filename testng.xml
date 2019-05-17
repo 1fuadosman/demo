@@ -11,24 +11,9 @@
             <class name="com.demo.app.tests.Comments" />
         </classes>
     </test>
-    <test name="Photos">
-        <classes>
-            <class name="com.demo.app.tests.Photos" />
-        </classes>
-    </test>
     <test name="Posts">
         <classes>
             <class name="com.demo.app.tests.Posts" />
-        </classes>
-    </test>
-    <test name="Todos">
-        <classes>
-            <class name="com.demo.app.tests.Todos" />
-        </classes>
-    </test>
-    <test name="Users">
-        <classes>
-            <class name="com.demo.app.tests.Users" />
         </classes>
     </test>
 </suite>

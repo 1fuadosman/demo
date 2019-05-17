@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [softwaretestingmaterial]">
+  <test thread-count="5" verbose="0" name="Posts(failed)">
+    <classes>
+      <class name="com.demo.app.tests.Posts">
+        <methods>
+          <include name="unableToViewDeletedPost"/>
+          <include name="createNewPost"/>
+          <include name="updateAnExistingPost"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.demo.app.tests.Posts -->
+    </classes>
+  </test> <!-- Posts(failed) -->
+</suite> <!-- Failed suite [softwaretestingmaterial] -->
